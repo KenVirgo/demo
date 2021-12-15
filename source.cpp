@@ -26,4 +26,7 @@ int hieu(int a, int b){
 int tich(int a, int b){
 	return a*b;
 }
+<<<<<<< HEAD
 //Cau 19
+=======
+>>>>>>> 78774f12eda654b153b4887b4c209d75c8644949
